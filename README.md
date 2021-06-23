@@ -29,3 +29,4 @@
 - [GitHub Badge](./docs/badge.md)
 - [ko_ver. 예시](./docs/ko_example.md)
 - [en_ver. 예시](./docs/en_example.md)
+- [Gitmoji](./docs/gitmoji.md)
