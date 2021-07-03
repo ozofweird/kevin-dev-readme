@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/version-0.0.1-brightgreen)
 
 ## 📋 Index
-- [About](#🎉-about)
+- [About](#about)
 - [Overview](#👀-overview)
 - [Getting Started](#🚀-getting-started)
 - [Release Notes](#✅-release-notes)
